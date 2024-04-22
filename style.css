@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.name-title{
+    color:rgb(1, 17, 22)
+}
+
+.second-div{
+    background-color: azure;
+}
+
+.third-div{
+    background-color: black;
+    color: white;
+}
+
+#main-title{
+    color:rgb(10, 105, 237)
+}
+
+h2{
+    background-color: azure;
+}
+
+ul{
+    background-color: azure;
+}
+
+p{
+    color: #023047;
+}
+
+img{
+    width: 500px;
+}
